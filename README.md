@@ -4,7 +4,7 @@
 Python을 사용하여 문제를 해결하며, 각 문제별로 코드와 풀이를 정리합니다.  
 
 ## 📌 저장소 구조
-
+```
 CodingTest_Python/
 │── README.md
 │── 문제_이름1/
@@ -13,7 +13,7 @@ CodingTest_Python/
 │── 문제_이름2/
 │   ├── solution.py
 │   ├── README.md
-…
+```
 
 - 각 문제별 폴더를 생성하고, `solution.py`에 코드 작성  
 - `README.md`에 문제 설명 및 풀이 과정 정리  
